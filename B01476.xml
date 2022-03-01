@@ -1,0 +1,297 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Advertisement. Proposalls made and approved by the City of London, for a yearly increase of wealth, by subscriptions, to advance money at interest for lives, of whatsoever age or sex under ten several ranks or classses, which subscriptions will produce great advantage to the survivours, as is particularly instanced in the schemes and paragraphs following, (Viz.)</title>
+            <author>Corporation of London (England)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01476</idno>
+            <idno type="STC">Wing A617A</idno>
+            <idno type="STC">ESTC R206035</idno>
+            <idno type="EEBO-CITATION">51784347</idno>
+            <idno type="OCLC">ocm 51784347</idno>
+            <idno type="VID">174775</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01476)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174775)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2697:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Advertisement. Proposalls made and approved by the City of London, for a yearly increase of wealth, by subscriptions, to advance money at interest for lives, of whatsoever age or sex under ten several ranks or classses, which subscriptions will produce great advantage to the survivours, as is particularly instanced in the schemes and paragraphs following, (Viz.)</title>
+                  <author>Corporation of London (England)</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication taken from Wing (2nd ed.)</note>
+                  <note>Imperfect: cropped, with some loss of text.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Credit --  Management --  Great Britain --  Early works to 1800.</term>
+               <term>Broadsides --  England --  London --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:174775:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 7 -->
+            <head>
+               <figure>
+                  <figDesc>blazon of the City of London</figDesc>
+               </figure>
+            </head>
+            <head>Advertiſement.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">P</seg>Ropoſalls</hi> Made and approved by the City of <hi>London,</hi> for a Yearly Increaſe of Wealth, by Subſcriptions, to Advance Money at <hi>Intereſt</hi> for Lives, of whatſo<g ref="char:EOLhyphen"/>ever <hi>Age</hi> or <hi>Sex</hi>under Ten Several <hi>Ranks</hi> or <hi>Claſſes,</hi> which Subſcriptions will Produce great <hi>Advantage</hi> to the <hi>SURVIVOURS,</hi>as is particularly inſtanced in the <hi>Schemes</hi> and <hi>Paragraphs</hi>following, (<hi>VIZ.</hi>)</p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">The particular Summs to be Subſcribed.</cell>
+                     <cell role="label">The Number of Perſons requiſite for each Rank.</cell>
+                     <cell role="label">Total Summ to be Sub<g ref="char:EOLhyphen"/>ſcribed by each Rank.</cell>
+                     <cell role="label">The Yearly Intereſt thereof.</cell>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell>5</cell>
+                     <cell>2000</cell>
+                     <cell>10000</cell>
+                     <cell>600</cell>
+                  </row>
+                  <row>
+                     <cell>2</cell>
+                     <cell>10</cell>
+                     <cell>1000</cell>
+                     <cell>10000</cell>
+                     <cell>600</cell>
+                  </row>
+                  <row>
+                     <cell>3</cell>
+                     <cell>20</cell>
+                     <cell>500</cell>
+                     <cell>10000</cell>
+                     <cell>600</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>25</cell>
+                     <cell>400</cell>
+                     <cell>10000</cell>
+                     <cell>600</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>50</cell>
+                     <cell>200</cell>
+                     <cell>10000</cell>
+                     <cell>600</cell>
+                  </row>
+                  <row>
+                     <cell>6</cell>
+                     <cell>100</cell>
+                     <cell>100</cell>
+                     <cell>10000</cell>
+                     <cell>600</cell>
+                  </row>
+                  <row>
+                     <cell>7</cell>
+                     <cell>200</cell>
+                     <cell>50</cell>
+                     <cell>10000</cell>
+                     <cell>600</cell>
+                  </row>
+                  <row>
+                     <cell>8</cell>
+                     <cell>400</cell>
+                     <cell>25</cell>
+                     <cell>10000</cell>
+                     <cell>600</cell>
+                  </row>
+                  <row>
+                     <cell>9</cell>
+                     <cell>500</cell>
+                     <cell>20</cell>
+                     <cell>10000</cell>
+                     <cell>600</cell>
+                  </row>
+                  <row>
+                     <cell>10</cell>
+                     <cell>1000</cell>
+                     <cell>10</cell>
+                     <cell>10000</cell>
+                     <cell>600</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">The Subſcribers Names, Qualities, Sexes, and Places of Habitations.</cell>
+                     <cell role="label">Firſt Rank<lb/>of Perſons<lb/>under 7.</cell>
+                     <cell role="label">2. between<lb/>7. &amp; 14.</cell>
+                     <cell role="label">3. between<lb/>14. &amp; 21.</cell>
+                     <cell role="label">4. between<lb/>21. &amp; 28.</cell>
+                     <cell role="label">5. between<lb/>28. &amp; 35.</cell>
+                     <cell role="label">6. between<lb/>35. &amp; 42.</cell>
+                     <cell role="label">7. between<lb/>42. &amp; 49.</cell>
+                     <cell role="label">8. between<lb/>49. &amp; 56.</cell>
+                     <cell role="label">9. between<lb/>56. &amp; 63.</cell>
+                     <cell role="label">10. between<lb/>63. &amp; 70</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>A. B.</hi> of <hi>Cheapſide, London,</hi> Gold<g ref="char:EOLhyphen"/>ſmith, for his Son <hi>John.</hi>
+                     </cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The ſame for <hi>C. D.</hi> of <hi>Cornhil,</hi> Gent.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>E. F.</hi> of <hi>Paternoſter-Row,</hi> Mercer, for himſelf.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>5</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>By which <hi>Schemes</hi> it appears, There is 10000 <hi>l.</hi> to be Subſcribed on each Rank or Claſs of Sums and Perſons, the Intereſt of which comes to 600 <hi>l. per Annum.</hi> but no Subſcriber ſhall be held Obliged to pay his Money until the ſaid Sum of 10000 <hi>l.</hi> be fully underwritten, (that is to ſay) If he have Subſcribed 5. <hi>l.</hi> until 1999 other Perſons of the ſame Rank or Claſs (as to Age) have each of them Subſcribed 5 <hi>l.</hi> to make up the ſame 10000 <hi>l.</hi> Or if he have Sub<g ref="char:EOLhyphen"/>ſcribed 50 <hi>l.</hi> until 199 other Perſons of the ſame Rank or Claſs (as to Age) have each of them Subſcribed 50 <hi>l.</hi>
+            </p>
+            <p>EVery perſon for whom a Subſcription ſhall be made, ſhall, from the time his Money is paid, receive Intereſt after the rate of Six Pounds <hi>per Cent. per Annum;</hi> and as any of thoſe that are in the ſame Rank, dye, the Survivours of that Rank, ſhall receive the Intereſt Money that ſhould have been paid to the deceaſed equaly divided
+<pb facs="tcp:174775:2"/>
+               <!-- PDF PAGE 8 -->
+amongſt them (that is to ſay) If one of the ten Subſcribers for 1000 <hi>l.</hi> each man, do dye, the other Nine that ſhall ſurvive, ſhall receive beſides the Intereſt for their own 1000 <hi>l.</hi> (each) Subſcribed (which is 60 <hi>l. per Annum</hi>) their equall ſhare of that 60 <hi>l.</hi> which would have accrued to the Deceaſed and ſo of the reſt.</p>
+            <p>Every Subſcriber, when he comes to Subſcribe, ſhall declare the Age or Ages of the Perſons for whom he doth Subſcribe <hi>(Viz.)</hi> Whether they be under the Age of 7. or above 7. and under the Age of 14. Or above 14. and under the Age of 21. Or above 21. and ſo of the reſt of the ſaid Ranks. And if any Perſon underwriting, either for himſelf or any other ſhall Declare, and Subſcribe the Perſon for whom ſuch Subſcriptions ſhall be made, to be of any other Age then by the Rules or Inſtances aforementioned, are allowable to paſs in ſuch Rank or Claſsas he ſhall under-write for, ſuch Subſcriptions and the Moneys thereupon paid ſhall be forfeited, and go to the reſt of that Rank.</p>
+            <p>If any Perſon ſhall under-write, the firſt five Summs above mentioned, which amounts to but 110 <hi>l.</hi> and enter him<g ref="char:EOLhyphen"/>ſelf, or thoſe for whom he under-writes, according to their reſpective Ages, in five ſeveral Ranks or Claſſes, he hath thereby a poſſibility of receiving five times 600 <hi>l.</hi> which is 3000 <hi>l. per Annum,</hi> during his Life, if he ſurvive the reſt. And ſo if any ſhall under-write, (in like manner) all the ten Sums firſt above mentioned, which amounts to 2310, <hi>l.</hi> he hath like poſſibility of receiving ten times 600 <hi>l. per Annum.</hi> during his Life if he Survive the reſt.</p>
+            <p>Every perſon when he comes to demand any Intereſt-money, muſt bring Certificate from the <hi>Truſtees</hi> of the re<g ref="char:EOLhyphen"/>ſpective Rank or Claſs in which the Subſcription was made, that the Perſon upon whoſe Life the money is demand<g ref="char:EOLhyphen"/>ed was alive at the time when the Intereſt by him demanded became due; But if no Demand be made of any Per<g ref="char:EOLhyphen"/>ſons Intereſt by the ſpace of three years ſucceſſively, ſuch perſons ſhall be held as dead, and his Intereſt for the ſaid three years, and untill he ſhall afterwards appear to ma<gap reason="illegible: in crease" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e demand, ſhall be loſt to him, and divided among the reſt of the Subſcribers; which ſaid <hi>Truſtees</hi> ſhall for the firſt year be nominated and choſen, by the Major part of the Sub<g ref="char:EOLhyphen"/>ſcribers in each Rank reſpectively, as ſoon as the ſaid Rank or Claſs ſhall be filled up, and afterwards annually.</p>
+            <p>If any Perſon deſires to transfer his Intereſt, it will <gap reason="illegible: in crease" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ell every year for more Money then it would have done the year before, for, the more Perſons dye the greater will <gap reason="illegible: in crease" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Income be to the Survivours, And any man may tranſ<g ref="char:EOLhyphen"/>ferr his Intereſt to whom he pleaſes.</p>
+            <p>This Fund for the ſecurity of the payment of the ſa<gap reason="illegible: in crease" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Intereſt ſhall be ſetled to the ſatiſsaction of the Subſcrib<g ref="char:EOLhyphen"/>ers as ſhall be adviſed by Council learned in the Law.</p>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <p>There are already Printed ſeveral Sheets, Entituled, <hi>A Collection of Letters for Improvement of Husbandry and Trade.</hi> And more are deſigned monthly. They are for the uſe of every body, and 'tis hop't they'l be the means of Improving his Majeſties Countreys h<gap reason="illegible: in crease" extent="2 letters">
+                  <desc>••</desc>
+               </gap>her than ever any other yet attain'd to.</p>
+            <pb facs="tcp:174775:3"/>
+            <!-- PDF PAGE 9 -->
+         </div>
+      </back>
+   </text>
+</TEI>
